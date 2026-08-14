@@ -54,7 +54,7 @@ End-to-end deep learning project for kidney stone classification and localizatio
 
 **Key technologies:** ObjectDetection · YOLOv8 · YOLOv11 · PyTorch
 
-[View API Project on GitHub](https://github.com/sepehr-khb/KidneyStone-Detection)  
+[View Project on GitHub](https://github.com/sepehr-khb/KidneyStone-Detection)  
 [View Project on Kaggle](https://www.kaggle.com/code/sepehrkh/task-2-kidney-stone-detection-using-yolos-ssd)
 
 ---
